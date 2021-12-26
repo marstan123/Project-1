@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    background: url(../img/kirpich-kirpichnaia-stena-fon-fotofon-tekstura.jpg);
+    background-size: 100%;
+}
+.main {
+    width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: rgb(217, 219, 183);
+    box-shadow: 0 5px 10px
+    gray;
+}
+.headings {
+    font-family: B52;
+    src: url(../fonts/B52.ttf);
+    text-align: center;
+}
+.scrip-photo {
+    width: 400px;
+    border-radius: 50%;
+}
+.disc {
+    font-family:cursive;
+    text-align: center;
+}
+.album {
+    width: 400px;
+    margin: 0 auto;
+}
